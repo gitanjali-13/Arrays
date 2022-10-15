@@ -17,7 +17,7 @@ class SBI implements Bank {
         }
 
         class BankInterfaceDemo {
-            public static void main(String[] args) {
+            public void main(String[] args) {
                 Bank b = new SBI();
                 System.out.println("Rate of interest :" + b.rateOfInterest());
             }

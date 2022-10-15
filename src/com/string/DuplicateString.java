@@ -16,7 +16,7 @@ public class DuplicateString {
                 }
             }
             if (count > 1 && words[i] != "0"){
-                System.out.println(words[i]);
+                System.out.print( words[i]+ ", ");
             }
         }
     }

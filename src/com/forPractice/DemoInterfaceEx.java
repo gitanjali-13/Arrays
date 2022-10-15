@@ -12,6 +12,7 @@ class Circle implements DemoInterfaceEx{
 
     public static void main(String[] args) {
         DemoInterfaceEx obj = new Circle();
+
         obj.display();
     }
 }

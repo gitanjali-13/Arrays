@@ -9,7 +9,5 @@ public class RemoveSpaceForloop {
             if (c != ' ')
                 System.out.print(c);
         }
-
-
     }
 }

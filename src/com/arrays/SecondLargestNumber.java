@@ -20,8 +20,5 @@ public class SecondLargestNumber {
         int b[] = {1,2,6,8,0,3};
         System.out.println("second largest number " +getSecondLargestNumber(a, 6));
         System.out.println("second largest number " +getSecondLargestNumber(b,6));
-
     }
-
-
 }

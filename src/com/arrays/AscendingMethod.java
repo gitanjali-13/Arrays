@@ -1,4 +1,4 @@
-package com.workshop1;
+package com.arrays;
 
 public class AscendingMethod {
     public void ascending(int arr[]) {

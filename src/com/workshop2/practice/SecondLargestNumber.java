@@ -1,4 +1,4 @@
-package com.workshop1;
+package com.workshop2.practice;
 
 public class SecondLargestNumber {
     public String secondLargest(int[] arr, int num) {

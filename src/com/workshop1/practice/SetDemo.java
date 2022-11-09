@@ -1,8 +1,8 @@
 package com.workshop1.practice;
 
 import java.util.HashSet;
+
 import java.util.Iterator;
-import java.util.List;
 
 public class SetDemo {
     public static void main(String[] args) {
